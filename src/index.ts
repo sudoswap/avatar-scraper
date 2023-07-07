@@ -45,7 +45,7 @@ async function main() {
         }
     }
 
-    writeFileSync("avatars.json", JSON.stringify(avatarMap, null, 4));
+    writeFileSync(FILENAME, JSON.stringify(avatarMap, null, 4));
 }
 
 function setupFiles() {
