@@ -3132,9 +3132,9 @@
     "3131": "Unrevealed",
     "3132": "Unrevealed",
     "3133": "Unrevealed",
-    "3134": "Unrevealed",
-    "3135": "Unrevealed",
-    "3136": "Unrevealed",
+    "3134": "Earthen",
+    "3135": "Marcolian",
+    "3136": "Kathari",
     "3137": "Unrevealed",
     "3138": "Unrevealed",
     "3139": "Unrevealed",
@@ -3306,9 +3306,9 @@
     "3305": "Unrevealed",
     "3306": "Unrevealed",
     "3307": "Unrevealed",
-    "3308": "Unrevealed",
-    "3309": "Unrevealed",
-    "3310": "Unrevealed",
+    "3308": "Shroud",
+    "3309": "Augencore",
+    "3310": "Earthen",
     "3311": "Unrevealed",
     "3312": "Unrevealed",
     "3313": "Unrevealed",
@@ -10998,5 +10998,6 @@
     "10997": "Unrevealed",
     "10998": "Unrevealed",
     "10999": "Unrevealed",
-    "11000": "Unrevealed"
+    "11000": "Unrevealed",
+    "11001": "Unrevealed"
 }

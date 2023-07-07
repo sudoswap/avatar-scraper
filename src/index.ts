@@ -31,7 +31,7 @@ async function main() {
             );
         }
 
-        if (promises.length >= BATCH_SIZE || i === COLLECTION_SIZE) {
+        if (promises.length >= BATCH_SIZE || i >= COLLECTION_SIZE) {
             const results = await Promise.all(promises);
 
             for (const result of results) {
