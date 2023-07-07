@@ -3,7 +3,7 @@ import { loadEnv } from "./utils/loadEnv";
 import axios from "axios";
 import axiosRetry from "axios-retry";
 
-const FILENAME = "avatars.json";
+const FILENAME = "data/avatars.json";
 const ENDPOINT = `https://nftdata.parallelnft.com/api/parallel-avatars/ipfs/`;
 const BATCH_SIZE = 50;
 const COLLECTION_SIZE = 11001;
